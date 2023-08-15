@@ -28,7 +28,7 @@ public class CalculatorServiceImpl implements CalkulatorService{
         int k = Integer.parseInt(num2);
         int summa = i*k;
         String resultat = Integer.toString(summa);
-        return num1+ "*" + num2 + "= " + resultat;
+        return num1+ "* " + num2 + "= " + resultat;
 
     }
 
