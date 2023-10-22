@@ -1,4 +1,4 @@
-package pro.sky.java.course2.webcalculator;
+package pro.sky.java.course2.webcalculator.service;
 
 public interface CalkulatorService {
     String slogenie(String num1,String num2);
